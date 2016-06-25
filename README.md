@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [Fresh Air](http://fre
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [Fresh Air](http://www.npr.org/programs/fresh-air/) with Terry Gross ([NPR](http://www.npr.org/)). Since its national debut in 1987, Fresh Air has been a highly acclaimed and much adored weekday magazine among public radio listeners. Each week, nearly 4.8 million people turn to Peabody Award-winning host Terry Gross for insightful conversations with the leading voices in contemporary arts and issues. The renowned program reaches a global audience, with over 620 public radio stations broadcasting Fresh Air, and 3 million podcast downloads each week.
 
